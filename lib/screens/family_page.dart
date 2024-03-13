@@ -8,7 +8,7 @@ class FmailyMemberPage extends StatelessWidget {
     Family(
         image: 'assets/images/family_members/family_father.png',
         jpname: 'chich',
-        egName: 'fatheer',
+        egName: 'father',
         sound: 'sounds/family_members/father.wav'),
     Family(
         image: 'assets/images/family_members/family_daughter.png',
